@@ -12,7 +12,7 @@ title                    : "Maohang Gao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Maohang Gao"
 description              : &description "personal description"
-url                      : https://gmh1627.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gmh1627.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gmh1627/gmh1627.github.io"
 
@@ -26,17 +26,24 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Anhui, China"
-  employer         : "School of Artificial Intelligence and Data Science, University of Science and Technology of China"
+  employer         : "AI&DS, USTC"
+  school           : "USTC"
   uri              : # URL
-  email            : "3558965271@qq.com; gmh1627@mail.ustc.edu.cn; g69023740@gmail.com" 
+  email            : "gmh1627@mail.ustc.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=9SYuF7EAAAAJ&hl=zh-CN"
   impactstory      : # URL
+<<<<<<< HEAD
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
+=======
+  orcid            : 
+  semantic         : # URL
+  pubmed           : 
+>>>>>>> a172dc2f8ba5ab63c5175c6524fb3ad907c0c799
   researchgate     : # URL
 
   # Repositories and software development
