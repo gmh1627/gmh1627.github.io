@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maohang Gao's Personal Homepage"
+title                    : "Maohang Gao"
 title_separator          : "-"
 name                     : &name "Maohang Gao"
 description              : &description "personal description"
