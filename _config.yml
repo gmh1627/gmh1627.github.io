@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Maohang Gao"
   pronouns         : # "he/him" or "she/her" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "UG, AI & Data Science, USTC"
   location         : "Anhui, China"
   employer         : #
-  school           : "USTC"
-  major            : "AI & Data Science"
+  school           : #"USTC"
+  major            : #"AI & Data Science"
   uri              : # URL
   email            : "gmh1627@mail.ustc.edu.cn"
 
