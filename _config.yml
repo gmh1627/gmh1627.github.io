@@ -26,8 +26,9 @@ author:
   pronouns         : # "he/him" or "she/her" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Anhui, China"
-  employer         : "AI&DS, USTC"
+  employer         : #
   school           : "USTC"
+  major            : "AI & Data Science"
   uri              : # URL
   email            : "gmh1627@mail.ustc.edu.cn"
 
