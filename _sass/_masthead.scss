@@ -43,6 +43,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex; // 子元素水平排列
+    flex-wrap: nowrap; // 防止子元素换行
   }
 }
 
