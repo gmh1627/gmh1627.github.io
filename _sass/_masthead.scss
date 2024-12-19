@@ -37,16 +37,12 @@
   }
   
   .masthead__menu {
-    overflow-x: auto;
-    white-space: nowrap; // 防止子元素换行
+  
     ul {
       margin: 0;
       padding: 0;
       clear: both;
       list-style-type: none;
-      display: flex; // 子元素水平排列
-      flex-wrap: nowrap; // 防止子元素换行
-      width: max-content; // 确保宽度足够大
     }
   }
   
@@ -56,7 +52,7 @@
     white-space: nowrap;
   
     &--lg {
-      padding-right: 3em;
+      padding-right: 2em;
       font-weight: 700;
     }
   }
