@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Maohang Gao"
-  pronouns         : # example: "she/her"  
+  pronouns         : # "he/him" or "she/her" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Anhui, China"
   employer         : "AI&DS, USTC"
@@ -72,6 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
+  blog             : https://kangaroogao.github.io
   zhihu            : https://www.zhihu.com/people/95-9-17-28-56
 
 # Publication Category - The following the list of publication categories and their headings
